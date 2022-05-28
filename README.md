@@ -1,5 +1,5 @@
 # 
-## Olá eu sou o Hélio Alexandre A Soares, criador de conteúdo de programação e tecnologia!
+## Olá eu sou o Hélio A A Soares, criador de conteúdo de programação e tecnologia!
 - 🏫 Estudante Engenharia de Software.
 - 🌱 Estudando Typescript
 - 🏊‍♂️ Mergulhando 100% na area de T.I
